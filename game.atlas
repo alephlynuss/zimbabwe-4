@@ -20,7 +20,7 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/zimbabwe icon 1
   rotate: false
-  xy: 4, 4
+  xy: 0, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
